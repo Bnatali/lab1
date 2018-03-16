@@ -1,0 +1,11 @@
+commit a75593af0fab1c4ff444a240143a63dcd4be0a0f (HEAD -> logging, origin/master, master)
+Author: natali.bojchevska@students.finki.ukim.mk <natali.bojchevska@students.finki.ukim.mk>
+Date:   Fri Mar 16 15:58:14 2018 +0100
+
+    modify l1.txt
+
+commit 07c750687d4585a735aaba758d9b205259212f27
+Author: natali.bojchevska@students.finki.ukim.mk <natali.bojchevska@students.finki.ukim.mk>
+Date:   Fri Mar 16 15:52:03 2018 +0100
+
+    Initial commit
