@@ -1,0 +1,26 @@
+                          mkdir lab1
+cd lab1.txt
+git init
+touch l1.txt
+start l1.txt
+git status
+git add l1.txt
+git commit -m"initial commit"
+start.l1.txt
+git add l1.txt
+git commit -m "modify l1.txt"
+$ git remote add origin https://github.com/Bnatali/lab1.git
+git push origin master
+git branch logging
+git chechout logging
+git add log.txt
+git commit -m "git log izlez"
+git chechout master
+git push -u origin logging 
+git checkout -- l1.txt
+    $ git merge logging
+$ git push -u origin master
+git branch allcomands
+chechout allcomands
+
+
